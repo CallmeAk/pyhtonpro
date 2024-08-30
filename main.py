@@ -1,1 +1,1 @@
-print()[D""[Dwelcome to hell)[D"[C[D)
+print("Welcome to Hell")
